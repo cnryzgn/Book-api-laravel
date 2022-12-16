@@ -8,6 +8,7 @@
 <pre>/api/register       -<b>POST</b>-</pre>
 <pre>/api/logout         -<b>POST</b>-</pre>
 <br>
+
 ### Books
 <pre>/api/book           -<b>GET</b>-</pre>
 <pre>/api/book/{id}      -<b>GET</b>-</pre>
@@ -15,6 +16,7 @@
 <pre>/api/book/{id}      -<b>PUT</b>-</pre>
 <pre>/api/book/{id}      -<b>DELETE</b>-</pre>
 <br>
+
 ### Authors
 <pre>/api/authors        -<b>GET</b>-</pre>
 <pre>/api/authors/{id}   -<b>GET</b>-</pre>
@@ -22,6 +24,7 @@
 <pre>/api/authors/{id}   -<b>PUT</b>-</pre>
 <pre>/api/authors/{id}   -<b>DELETE</b>-</pre>
 <br>
+
 ### Genres
 <pre>/api/genres         -<b>GET</b>-</pre>
 <pre>/api/genres/{id}    -<b>GET</b>-</pre>
@@ -29,6 +32,7 @@
 <pre>/api/genres/{id}    -<b>PUT</b>-</pre>
 <pre>/api/genres/{id}    -<b>DELETE</b>-</pre>
 <br>
+
 ### Users
 <pre>/api/users          -<b>GET</b>-</pre>
 <pre>/api/users/{id}     -<b>GET</b>-</pre>
